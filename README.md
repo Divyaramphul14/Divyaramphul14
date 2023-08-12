@@ -11,4 +11,8 @@ I am currently studying for my Bcom degree in Business Information Technology an
             <a href="https://www.facebook.com/div.ya.3597789/" target="_blank"><img src="Images /facebook.svg" id="facebook"                          alt="Facebook"></a>
             <a href="https://github.com/" target="_blank"><img src="Images /icons8-github-50.png" id="github" alt="Github"></a>
 </div>
-        
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-username)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-handle?style=social)](https://twitter.com/your-handle)
+
