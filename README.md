@@ -3,13 +3,8 @@ I am currently studying for my Bcom degree in Business Information Technology an
                 
 
 
-
-
-
-                                                    YOU CAN CONTACT ME USING THE LINKS BELOW!!!
+YOU CAN CONTACT ME USING THE LINKS BELOW!!!
  
- 
-
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Divyaramphul14-brightgreen)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DivyaDrishtiRamphul-blue)]((https://www.linkedin.com/in/divya-drishti-ramphul-109866238/))
