@@ -1,6 +1,5 @@
                                                      Hello👋🏽 I'm Divya Drishti Ramphul 
-                I am currently studying for my Bcom degree in Business Information Technology and Systems at Curtin Mauritius🎓👩🏾‍💻
-                Skilled in Python, HTML, and CSS, I'm passionate about learning how to craft elegant code that solves real-world                         challenges. My journey in the world of programming began after witnessing how the world is changing with computerisation.
+I am currently studying for my Bcom degree in Business Information Technology and Systems at Curtin Mauritius🎓👩🏾‍💻 Skilled in Python, HTML, and CSS, I'm passionate about learning how to craft elegant code that solves real-world challenges. My journey in the world of programming began after witnessing how the world is changing with computerisation.
                 
  
  
