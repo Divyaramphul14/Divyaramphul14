@@ -4,15 +4,10 @@ I am currently studying for my Bcom degree in Business Information Technology an
  
  
  
- 
- <div class="socialmedia">
-            <a href="https://www.instagram.com/vani1_4/" target="_blank"><img src="Images /instagram.svg" id="instagram" alt="Instagram"              </a>
-            <a href="https://www.linkedin.com/in/divya-drishti-ramphul-109866238/" target="_blank"><img src="Images /linkedin.svg"                     id="linkedin" alt="Linkedin"></a>
-            <a href="https://www.facebook.com/div.ya.3597789/" target="_blank"><img src="Images /facebook.svg" id="facebook"                          alt="Facebook"></a>
-            <a href="https://github.com/" target="_blank"><img src="Images /icons8-github-50.png" id="github" alt="Github"></a>
-</div>
+
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-handle?style=social)](https://twitter.com/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20%40your_username-orange)](https://www.instagram.com/vani1_4/)
+
 
