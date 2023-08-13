@@ -6,7 +6,7 @@ I am currently studying for my Bcom degree in Business Information Technology an
 YOU CAN CONTACT ME USING THE LINKS BELOW!!!
  
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Divyaramphul14-brightgreen)](https://github.com/Divyaramphul14)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Divyaramphul14-brightgreen)]([https://github.com/Divyaramphul14](https://github.com/Divyaramphul14/SecureDataEncryption.git))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DivyaDrishtiRamphul-blue)](([https://www.linkedin.com/in/divya-drishti-ramphul-109866238/](https://www.linkedin.com/in/divya-drishti-ramphul-109866238/)))
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20%40vani1_4-pink)](https://www.instagram.com/vani1_4/)
 
